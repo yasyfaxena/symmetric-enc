@@ -1,0 +1,2 @@
+This is a secret file for the symmetric encryption demonstration.
+This file will be encrypted using AES-256-GCM and decrypted using the same secret key
